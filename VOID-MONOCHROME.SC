@@ -10,7 +10,7 @@ local Lighting = game:GetService("Lighting")
 
 -- [[ CONFIG ]] --
 local BACKGROUND_IMAGE = "rbxassetid://101198077444323"
-local DISCORD_LINK = "https://discord.gg/hwz9z7xm"
+local DISCORD_LINK = "https://discord.gg/7xANTD2VfC"
 
 local Config = {
     ShowFov = false,
